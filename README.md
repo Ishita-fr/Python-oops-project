@@ -35,7 +35,7 @@ The project showcases **object-oriented programming (OOP)** principles in Python
 
 ---
 
-## 🔄 Functionalities
+## Functionalities
 
 - Add or remove books (if not borrowed)
 - Register or remove users (if no borrowed books)
@@ -46,7 +46,7 @@ The project showcases **object-oriented programming (OOP)** principles in Python
 
 ---
 
-## 📁 Data Storage
+## Data Storage
 
 All books and user data are stored locally using JSON:
 - `books.json` — list of all book objects
@@ -56,7 +56,7 @@ This allows persistence across program restarts without needing a database.
 
 ---
 
-## 👩‍💻 Why This Project?
+##  Why This Project?
 
 This project is ideal for:
 - Beginners learning Python and OOP
@@ -65,9 +65,3 @@ This project is ideal for:
 - Understanding system design with real-world analogy
 
 ---
-
-## 🚀 How to Use
-
-1. Run the Python file:
-   ```bash
-   python main.py
